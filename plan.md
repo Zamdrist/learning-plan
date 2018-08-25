@@ -1,19 +1,19 @@
 # Learning Plan 2019
 
 * January, Feburary, March
-    * Typescript, Javascript, React, More
+  * Typescript, Javascript, React, More
 * April, May, June
-    * C#, Databases
+  * C#, Databases
 * July, August, September
-    * Typescript, Javascript, React, More
+  * Typescript, Javascript, React, More
 * October, November, December
   * C#, Databases
 
-**Time**
+## Time
 
-- 10 hours per week
-- 5 hours (weekday), 5 hours (Sat-Sun)
-    - 4 hours on topic, 1 hours on tools
+* 10 hours per week
+* 5 hours (weekday), 5 hours (Sat-Sun)
+  * 4 hours on topic, 1 hours on tools
 
     If this timing is over-ambitious do 7 hours study, 1 on tools.
 
