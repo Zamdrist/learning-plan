@@ -24,6 +24,6 @@
     4. git add .
     5. git commit -m "Initial commit"
     6. git remote add origin [https://github.com/Zamdrist/new-repo.git](https://github.com/Zamdrist/new-repo.git). This is the url you copied from step 2.
-    7. git push origin master
+    7. git push origin master (This is only done for new repositories)
 
         ![git-local](/src/git-local.png)
